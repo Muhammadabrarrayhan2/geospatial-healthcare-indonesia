@@ -37,12 +37,12 @@ This analysis highlights the need for:
 - Matplotlib / Seaborn
 
 
-## 🚀 Future Work
+# Future Work
 - Incorporate more detailed healthcare indicators
 - Apply advanced models for prediction and optimization
 - Integrate real-time healthcare data sources
 
 
-## 👤 Author
+# Author
 Muhammad Abrar Rayhan  
 Telkom University  
