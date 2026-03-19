@@ -1,6 +1,5 @@
-# geospatial-healthcare-indonesia
-Geospatial analysis of healthcare accessibility in Indonesia using machine learning (K-Means) and visualization tools.
 # Geospatial Healthcare Analysis in Indonesia
+Geospatial analysis of healthcare accessibility in Indonesia using machine learning (K-Means) and visualization tools.
 
 # Overview
 This project analyzes disparities in healthcare accessibility across Indonesian provinces using geospatial data science techniques. The goal is to identify regions with limited healthcare access and provide insights for improving healthcare infrastructure distribution.
